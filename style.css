@@ -1,0 +1,25 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+      background: linear-gradient(#131614, #000000);
+      background-repeat: no-repeat;
+      color: white;
+}
+li a{
+  font-weight: bold;
+}
+.list li a{
+  text-decoration: none;
+  color: white;
+}
+iframe{
+  width: 100%;
+  height: 352px;
+  border:0px;
+  top: 0;
+  left: 0;
+  position: relative;
+}
+#row2{
+  display: none;
+}
